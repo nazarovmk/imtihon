@@ -1,0 +1,49 @@
+.header {
+  background-color: #232536;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container {
+}
+
+.site-logo {
+  display: block;
+  margin-right: auto;
+}
+
+.site-logo-image {
+}
+
+.sitenav {
+}
+
+.sitenav-list {
+  display: flex;
+  gap: 33px;
+}
+
+.sitenav-item {
+}
+
+.sitenav-link {
+  padding-bottom: 28px;
+  padding-top: 28px;
+  opacity: 60%;
+  color: rgba(255, 255, 255, 60%);
+  font-weight: 500;
+  border-top: 3px solid transparent;
+}
+
+.btn {
+}
+
+.header-btn {
+  color: #ffd3af;
+}
+
+/* FOOTER */

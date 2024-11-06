@@ -1,0 +1,86 @@
+@import "../../css/global.css";
+.main {
+  margin-top: 96px;
+}
+
+.main-topp {
+  width: 1277px;
+  height: 138px;
+  margin-bottom: 72px;
+  background-color: #ffffff;
+  background-image: url("../../images/chap.svg");
+  background-repeat: no-repeat;
+  background-position: top right, center right; 
+}
+
+.malenki {
+  padding-bottom: 24px;
+}
+
+.chap {
+  width: 48px;
+  height: 52px;
+}
+
+.Ikkinchi {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  color: #232536;
+}
+
+.Uchinchi {
+  padding-top: 8px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232536;
+}
+
+/* BOTTOM */
+
+.main-bottomm {
+  width: 1280px;
+  padding-top: 72px;
+  background-color: #ecf8f9;
+}
+.bottom-pass {
+  margin: 0 auto;
+  max-width: 830px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.uchinchi {
+  width: 841px;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+}
+
+.paragrif,
+.paragriff {
+  width: 829px;
+  padding-top: 24px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232536;
+}
+
+.paragriff:last-child {
+  padding-bottom: 96px;
+}
+
+.tor {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  padding-top: 40px;
+  padding-bottom: 16px;
+  color: #232536;
+}
+
+.ohirgi {
+  margin-bottom: 96px;
+}

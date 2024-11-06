@@ -1,0 +1,93 @@
+@import "../../css/global.css";
+.main-topp {
+    width: 1277px;
+    margin-top: 176px;
+    margin-bottom: 72px;
+    background-color: #ffffff;
+    background-image: url("../../images/Shapes\ per.svg");
+    background-repeat: no-repeat;
+    background-position: top right, center right; 
+  }
+  
+  .malenki {
+    padding-bottom: 24px;
+  }
+  
+  .chap {
+    width: 48px;
+    height: 52px;
+  }
+  
+  .Ikkinchi {
+    width: 740px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #232536;
+  }
+  
+  .Uchinchi {
+    width: 719px;
+    height: 72px;
+    padding-top: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #232536;
+  }
+
+  /*  */
+.kotta-img {
+  margin-top: 96px;
+}
+
+.wrapper {
+    display: flex;
+    padding-top: 32px;
+    gap: 12px;
+}
+
+.h3-big {
+    margin-top: 96px;
+width: 842px;
+margin-left: 217px;
+font-size: 36px;
+font-weight: 600;
+line-height: 54px;
+text-align: left;
+
+}
+
+.writ-texts {
+   width: 836px;
+   height: 144px;
+   padding-top: 24px;
+   margin-left: 217px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+
+.transform {
+    margin-left: 217px;
+  width: 842px;
+  padding-top: 40px;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+text-align: left;
+
+}
+
+.step {
+    margin-left: 217px;
+  width: 836px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}

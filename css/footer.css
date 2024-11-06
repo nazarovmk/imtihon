@@ -1,0 +1,147 @@
+.footer-top {
+  margin-bottom: 64px;
+}
+.footer-top-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-top-left {
+  width: 100%;
+  max-width: 453px;
+}
+
+.footer-top-image {
+  margin-bottom: 32px;
+}
+
+.footer-top-title {
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  margin-bottom: 40px;
+}
+.footer-top-slogan {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 28px;
+}
+.footer-top-mobile,
+.footer-top-email {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+
+  a {
+    color: #232536;
+
+    &:hover {
+      color: #444cfc;
+    }
+  }
+}
+
+.footer-top-email {
+  margin-bottom: 14px;
+}
+.footer-top-divider {
+  width: 286px;
+  background-color: rgba(0, 0, 0, 0.08);
+  border-top: 0;
+  margin-bottom: 16px;
+}
+.site-address {
+  font-style: normal;
+}
+
+.footer-navs {
+  display: flex;
+  gap: 100px;
+  margin-bottom: 92px;
+  padding-right: 117px;
+}
+
+.footer-top-right {
+  display: flex;
+  flex-direction: column;
+  padding-top: 80px;
+}
+.main-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  a {
+    font-weight: 600;
+    color: #232536;
+  }
+
+  a:hover {
+    color: #ffa155;
+  }
+}
+
+.services-nav,
+.resourses-nav {
+  li:first-child {
+    font-weight: 600;
+    margin-bottom: 13px;
+  }
+
+  li:not(:first-child) {
+    margin-bottom: 12px;
+    a {
+      color: inherit;
+
+      &:hover {
+        color: #ffa155;
+      }
+    }
+  }
+}
+.resourses-nav {
+}
+.footer-btn-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer .btn-text {
+  color: #232536;
+  font-weight: 500;
+}
+
+.footer-bottom {
+  background-color: #ffe6d2;
+  padding-bottom: 28px;
+  padding-top: 28px;
+}
+
+.footer-bottom-container {
+  display: flex;
+  align-items: center;
+}
+
+.footer .site-logo {
+  margin: 0;
+  margin-right: 42px;
+}
+.site-logo-image {
+}
+.footer-copyright {
+  margin-right: auto;
+  color: #000000;
+  font-weight: 500;
+}
+.footer-socials {
+  display: flex;
+  gap: 27px;
+}
+.footer-socials-item {
+}
+.footer-socials-link {
+}
+
+.social-icon:hover path {
+  fill: #444cfc;
+}

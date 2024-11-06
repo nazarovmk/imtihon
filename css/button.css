@@ -1,0 +1,31 @@
+.btn {
+  width: 219px;
+  padding: 20px 32px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.btn-primary {
+  color: #ffffff;
+  background-color: #444cfc;
+  background-image: url("../images/Shapes-btn.svg");
+  background-repeat: no-repeat;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn:active {
+  opacity: 0.6;
+}
+
+.btn-text:hover {
+  cursor: cell;
+  transform: rotate(45deg);
+  text-decoration: underline;
+}
+.btn-image {
+}

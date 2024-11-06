@@ -1,0 +1,114 @@
+@import "./fonts.css";
+@import "./button.css";
+@import "./header.css";
+@import "./footer.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #232536;
+}
+
+.main {
+  flex-grow: 1;
+  padding-bottom: 96px;
+}
+
+#active {
+  border-top-color: #ffa155;
+}
+
+.active-footer-link {
+  color: #ffa155;
+}
+
+.container {
+  width: 100%;
+  max-width: 1380px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* main */
+.cta {
+  color: #ffffff;
+}
+
+.cta-container {
+  background-color: #666dff;
+  padding-left: 0px;
+  padding-right: 0px;
+  max-width: 1300px;
+  padding: 96px;
+  background-image: url("../images/rasm\ -Shapes.svg"),
+    url("../images/cta\ img.svg");
+  background-repeat: no-repeat;
+  background-position: top left, center right;
+  display: flex;
+  align-items: center;
+  gap: 122px;
+}
+
+.cta-left {
+  width: 100%;
+  width: 488px;
+}
+
+.cta-subtitle {
+  font-size: 14px;
+  margin-bottom: 13px;
+}
+
+.cta-title {
+  line-height: 54px;
+  font-size: 36px;
+}
+
+.cta-input {
+  padding: 20px 29px;
+  font-family: inherit;
+  font-weight: 500;
+  width: 454px;
+}
+
+.cta-form .cta-input {
+  & {
+    border: 0;
+  }
+
+  &::placeholder {
+    color: rgba(35, 37, 54, 40%);
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
