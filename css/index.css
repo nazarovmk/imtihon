@@ -7,7 +7,7 @@
 .BG {
   max-width: 100%;
   padding-top: 96px;
-  padding-bottom: 170px;
+  padding-bottom: 32px;
   background-color: #232536;
   color: #ffffff;
 }
@@ -48,6 +48,10 @@
   padding-left: 93px;
 }
 
+.svg-long-logo {
+padding-top: 32px;
+}
+
 .import {
   width: 523px;
   height: 623px;
@@ -56,12 +60,10 @@
 /* SECTION2 */
 
 .main-bosh {
-  margin-bottom: 98px;
+  background-color: #ffffff;
 }
-.boshqaruvchi {
-}
+
 .one-teacher {
-  width: 1279px;
   display: flex;
 }
 .ABOUT {
@@ -70,23 +72,16 @@
   font-weight: 500;
   line-height: 20px;
   letter-spacing: 3px;
-  text-align: left;
 }
 .the-compny {
-  margin-top: 156px;
-  width: 700px;
-  height: 174px;
+  padding-top: 16px;
   font-size: 48px;
   font-weight: 600;
   line-height: 58px;
-  text-align: left;
 }
-.one- {
-}
-.teacher-son {
-}
+
 .ofif {
-  margin-top: 163px;
+  padding-top: 23px;
   width: 547px;
   height: 54px;
   font-size: 36px;
@@ -95,7 +90,7 @@
   text-align: left;
 }
 .through {
-  padding-top: 16px;
+  padding-top: 40px;
   width: 570px;
   height: 72px;
   font-size: 16px;
@@ -109,12 +104,11 @@
 }
 .raqamlar {
   padding-top: 48px;
+  padding-bottom: 98px;
   gap: 66px;
+  display: flex;
 }
 
-.tuqumlar {
-  padding-left: 66px;
-}
 .tuqumlar:first-child {
   padding: 0;
 }
@@ -128,8 +122,8 @@
 
 .btm {
   color: #444cfc;
- padding-left: 492px;
- margin-top: 90px;
+  margin-top: 42px;
+  margin-left: 440px;
 }
 
 .btm:hover {
@@ -146,59 +140,57 @@
   text-decoration: underline;
 }
 
+.btn-textr:hover {
+  cursor: cell;
+  transform: rotate(45deg);
+  text-decoration: underline;
+}
 
 /* / */
 
 .top {
   height: 660px;
-display: flex;
-background-color: #ECF8F9;
+  display: flex;
+  background-color: #ecf8f9;
 }
-.nav-left {
-width: 624px;
-height: 364px;
+
+.up {
+  display: flex;
 }
+
 .ourr {
   margin-top: 142px;
-font-size: 14px;
-font-weight: 500;
-line-height: 20px;
-letter-spacing: 3px;
-text-align: left;
-
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-align: left;
 }
 .get {
   padding-top: 16px;
   width: 622px;
   height: 232px;
-font-size: 48px;
-font-weight: 600;
-line-height: 58px;
-text-align: left;
-
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  text-align: left;
 }
 .text-text {
   padding-top: 24px;
   width: 622px;
-  
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-text-align: left;
-
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
 }
 .nav-right {
-}
-
-.raketa {
-  margin-top: 96px;
-  padding-left: 141px;
- padding-top: px;
+  margin-left: 141px;
+  padding-top: 96px;
 }
 
 .sev-pink {
   height: 917px;
-  background-color: #FFE6D2;
+  background-color: #ffe6d2;
 }
 
 .pink-text {
@@ -206,77 +198,168 @@ text-align: left;
   height: 310px;
 }
 .servis {
- padding-top: 96px;
-font-size: 14px;
-font-weight: 500;
-line-height: 20px;
-letter-spacing: 3px;
-text-align: left;
-
+  padding-top: 96px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-align: left;
 }
 .build {
   padding-top: 12px;
   width: 777px;
   height: 174px;
-font-size: 48px;
-font-weight: 600;
-line-height: 58px;
-text-align: left;
-
-}
-.logo-strelka {
-}
-.btn {
-}
-.btn-primary {
-}
-.btn-text {
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  text-align: left;
 }
 
 /*  */
-
-
+.one-two-there {
+  display: flex;
+  gap: 32px;
+}
 
 .img-pink {
-  
   width: 405px;
-  margin-left: 50px;
- margin-top: 80px;
-  background-color: #fff;
-
-}
-
-.img-pinn {
-  padding: 48px 31px 44px 48px;
-  width: 405px;
-
-  margin-left: 597px;
+  height: 335px;
+  margin-top: 80px;
+  padding-left: 48px;
+  padding-top: 48px;
   background-color: #fff;
 }
-.naushnik {
-}
+
 .oltinchi {
-
-font-size: 16px;
-font-weight: 600;
-line-height: 28px;
-text-align: left;
-
+  padding-top: 16px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
 }
 .aim {
+  padding-top: 8px;
   width: 326px;
   height: 96px;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-text-align: left;
-
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
 }
 .btn {
+  padding-top: 24px;
 }
 .header-btn {
 }
-.btn-text {
+.btn-textr {
+  color: #444cfc;
+}
+
+.our {
+  padding-top: 96px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+}
+
+.BR {
+  width: 733px;
+  padding-top: 16px;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+}
+.real {
+  width: 642px;
+  padding-top: 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.part1-part2 {
+  padding-top: 68px;
+  padding-bottom: 96px;
+}
+
+.part1 {
+  display: flex;
+}
+
+.part2 {
+  padding-top: 48px;
+  display: flex;
+}
+/*  */
+
+.to-all {
+  background-color: #f9f9ff;
+}
+
+.ofor {
+  display: flex;
+  gap: 171px;
+}
+
+.bottom-left {
+  width: 502px;
+}
+.smol-images {
+  padding-top: 102px;
+}
+
+.h2-main {
+  width: 492px;
+  font-size: 48px;
+  padding-top: 16px;
+  font-weight: 600;
+  line-height: 58px;
+  text-align: left;
+}
+.text {
+  padding-top: 16px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+}
+.text-two {
+  width: 492px;
+  padding-top: 16px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.alot {
+  padding-top: 24px;
+  margin-bottom: 119px;
+}
+
+.bottom-right {
+  margin-top: 115px;
+  width: 607px;
+  height: 340px;
+  padding: 48px 69px 112px 40px;
+  background-color: #ffffff;
+  background-image: url("../images/cta\ img.svg");
+  background-repeat: no-repeat;
+}
+.text-there {
+  width: 498px;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+}
+
+.person-ones {
+  padding-top: 24px;
+}
+.logo-two {
+  padding-left: 410px;
 }
 
 /*  */
@@ -338,5 +421,3 @@ text-align: left;
   transform: rotate(45deg);
   text-decoration: underline;
 }
-
-

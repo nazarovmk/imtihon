@@ -27,5 +27,11 @@
   transform: rotate(45deg);
   text-decoration: underline;
 }
-.btn-image {
+
+.btm-text:hover {
+  cursor: cell;
+  transform: rotate(45deg);
+  text-decoration: underline;
 }
+
+

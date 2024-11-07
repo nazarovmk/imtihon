@@ -50,12 +50,6 @@
   padding-bottom: 49px;
 }
 
-.smol-img {
-}
-.text-Ann {
-}
-.data {
-}
 .big-img {
   width: 608px;
   height: 390px;
@@ -106,6 +100,11 @@
 }
 
 /* PAS */
+.poper {
+  display: flex;
+  gap: 32px;
+}
+
 .readpp {
   padding-top: 96px;
   font-size: 48px;
@@ -119,7 +118,8 @@
 }
 
 .blog-content {
-  display: flex;
+  width: 328px;
+  height: 248px;
   flex-direction: column;
   padding: 32px;
 }
@@ -139,6 +139,10 @@
   margin-bottom: 24px;
 }
 
+.there-four {
+  display: flex;
+}
+
 .btn-blog {
   padding: 0;
 }
@@ -155,10 +159,6 @@
   cursor: cell;
   transform: rotate(45deg);
   text-decoration: underline;
-}
-
-.hammasini {
-  display: flex;
 }
 
 /* blog4 */
