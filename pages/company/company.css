@@ -1,0 +1,170 @@
+@import url("../../css/global.css");
+
+.boshqaruvchi {
+  margin-top: 96px;
+  background-image: url("../../images/Shapes\ per.svg");
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+.ABOUT {
+  padding-top: 24px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-align: left;
+}
+.the-compny {
+  padding-top: 20px;
+  width: 664px;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.through {
+  padding-top: 24px;
+  padding-bottom: 64px;
+  width: 719px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.padding-top {
+  padding-left: 950px;
+}
+
+.ol {
+  margin-top: 96px;
+  display: flex;
+  gap: 106px;
+}
+
+.story {
+  padding-top: 16px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.h3-smol {
+  width: 549px;
+  padding-top: 16px;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+}
+
+.true {
+  width: 550px;
+  padding-top: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.svg {
+  padding-top: 96px;
+}
+
+.top {
+  margin-top: 96px;
+  height: 660px;
+  display: flex;
+  background-color: #ecf8f9;
+}
+
+.up {
+  display: flex;
+}
+
+.ourr {
+  margin-top: 142px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-align: left;
+}
+.get {
+  padding-top: 16px;
+  width: 622px;
+  height: 232px;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  text-align: left;
+}
+.text-text {
+  padding-top: 24px;
+  width: 622px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.nav-right {
+  margin-left: 141px;
+  padding-top: 96px;
+}
+
+.tops {
+  margin-top: 96px;
+  margin-bottom: 96px;
+}
+
+.bottom-smol {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  color: #000000;
+}
+.bottom-pas {
+  padding-top: 16px;
+  width: 701px;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  color: #232536;
+}
+.bottom-text {
+  padding-top: 24px;
+  width: 622px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #232536;
+}
+
+.import-img {
+  padding-top: 64px;
+}
+
+.only {
+  width: 624px;
+  padding-top: 16px;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  color: #232536;
+}
+.rich {
+  padding-top: 24px;
+  width: 505px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #232536;
+}
+
+.team {
+  padding-top: 64px;
+}

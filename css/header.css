@@ -8,26 +8,14 @@
   justify-content: space-between;
 }
 
-.container {
-}
-
 .site-logo {
   display: block;
   margin-right: auto;
 }
 
-.site-logo-image {
-}
-
-.sitenav {
-}
-
 .sitenav-list {
   display: flex;
   gap: 33px;
-}
-
-.sitenav-item {
 }
 
 .sitenav-link {
@@ -39,11 +27,6 @@
   border-top: 3px solid transparent;
 }
 
-.btn {
-}
-
 .header-btn {
   color: #ffd3af;
 }
-
-/* FOOTER */

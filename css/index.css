@@ -49,7 +49,7 @@
 }
 
 .svg-long-logo {
-padding-top: 32px;
+  padding-top: 32px;
 }
 
 .import {
@@ -249,10 +249,13 @@ padding-top: 32px;
 .btn {
   padding-top: 24px;
 }
-.header-btn {
-}
+
 .btn-textr {
   color: #444cfc;
+}
+
+.section-nav {
+  background-color: #f9f9ff;
 }
 
 .our {

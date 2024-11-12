@@ -1,5 +1,6 @@
 .footer-top {
   margin-bottom: 64px;
+  margin-top: 96px;
 }
 .footer-top-container {
   display: flex;
@@ -99,8 +100,7 @@
     }
   }
 }
-.resourses-nav {
-}
+
 .footer-btn-wrapper {
   display: flex;
   justify-content: flex-end;
@@ -126,8 +126,7 @@
   margin: 0;
   margin-right: 42px;
 }
-.site-logo-image {
-}
+
 .footer-copyright {
   margin-right: auto;
   color: #000000;
@@ -136,10 +135,6 @@
 .footer-socials {
   display: flex;
   gap: 27px;
-}
-.footer-socials-item {
-}
-.footer-socials-link {
 }
 
 .social-icon:hover path {
