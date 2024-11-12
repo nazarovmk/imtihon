@@ -1,0 +1,140 @@
+@import url("../../css/global.css");
+.rov-top {
+  margin-top: 96px;
+  width: 1200px;
+  text-align: center;
+  background-image: url("../../images/Shapes\ per.svg");
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+.rov-text {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  color: #232536;
+}
+.rov-two {
+  padding-top: 24px;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  color: #232536;
+}
+.rov-per {
+  padding-top: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  color: #232536;
+}
+.rov-img {
+  padding-top: 64px;
+}
+
+.stel {
+  padding-top: 80px;
+}
+
+.of {
+  width: 1280px;
+  margin-top: 96px;
+  background-color: #ecf8f9;
+}
+
+.theres {
+  padding-top: 78px;
+  display: flex;
+  gap: 32px;
+}
+
+.there {
+  padding-top: 32px;
+  display: flex;
+  gap: 32px;
+}
+
+.there:last-child {
+  padding-bottom: 78px;
+}
+
+.one {
+  width: 365px;
+  height: 243px;
+  padding: 48px 100px 30px 48px;
+  background-color: #fff;
+}
+
+.lof-logo {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.lof-text {
+  padding-top: 10px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #232536;
+}
+
+.loff-text {
+  padding-top: 3px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #232536;
+}
+
+.btm {
+  padding-top: 52px;
+  cursor: all-scroll;
+}
+
+.btm-tex {
+  color: #5d5fef;
+}
+
+.color {
+  background-color: #fafafc;
+  margin-top: 96px;
+}
+
+.bottom-our {
+  padding-top: 96px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  color: #000000;
+}
+.come {
+  padding-top: 16px;
+  width: 624px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  color: #232536;
+}
+.bottom-tew {
+  padding-top: 24px;
+  width: 622px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #232536;
+}
+
+.img-jpg {
+  padding-top: 64px;
+  padding-bottom: 96px;
+}
