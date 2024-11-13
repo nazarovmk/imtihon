@@ -69,6 +69,38 @@
   line-height: 24px;
 }
 
+.hero {
+  width: 624px;
+  padding: 62px 210px 80px 110px;
+  background-color: #ffd3af91;
+}
+
+.story-r1 {
+  display: flex;
+  gap: 62px;
+}
+
+.story-r2 {
+  margin-top: 30px;
+  display: flex;
+  gap: 95px;
+}
+
+.soti {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  color: #232536;
+}
+.project {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #232536;
+}
+
 .svg {
   padding-top: 96px;
 }
@@ -113,6 +145,43 @@
 .nav-right {
   margin-left: 141px;
   padding-top: 96px;
+}
+
+.nav-right {
+}
+
+.dvays {
+  width: 515px;
+  padding: 32px 117px 32px 32px;
+  display: flex;
+  gap: 16px;
+  background-color: #ffffff;
+}
+
+.dvaysov {
+  margin-top: 12px;
+  width: 515px;
+  padding: 32px 117px 32px 32px;
+  display: flex;
+  gap: 16px;
+  background-color: #ffffff;
+}
+
+.time {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #000000;
+}
+.texx {
+  padding-top: 8px;
+  width: 303px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #5d5f6d;
 }
 
 .tops {
@@ -167,4 +236,13 @@
 
 .team {
   padding-top: 64px;
+}
+
+.teams {
+  display: flex;
+}
+
+.hover:hover {
+  opacity: 90%;
+  transform: scale(1.1);
 }

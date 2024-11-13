@@ -60,6 +60,10 @@
 }
 
 /* two */
+.section-nav {
+  background-color: #f9f9ff;
+}
+
 .our {
   padding-top: 96px;
   font-size: 14px;
@@ -83,18 +87,41 @@
   line-height: 24px;
 }
 
-.part1-part2 {
-  padding-top: 68px;
+.df-there {
+  display: flex;
+  margin-top: 68px;
+  gap: 48px;
+}
+
+.df-theres {
+  display: flex;
+  margin-top: 48px;
   padding-bottom: 96px;
+  gap: 48px;
 }
 
-.part1 {
-  display: flex;
+.df-one {
+  padding: 30px 11px 28px 32px;
+  background-color: #ffffff;
 }
 
-.part2 {
-  padding-top: 48px;
-  display: flex;
+.covid {
+  padding-top: 8px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #232536;
+}
+.the {
+  padding-top: 8px;
+  width: 300px;
+  opacity: 60%;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #232536;
 }
 
 /* 3 */

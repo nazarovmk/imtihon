@@ -1,0 +1,194 @@
+@import url("../../css/global.css");
+
+.df-two {
+  display: flex;
+  gap: 56px;
+}
+.to-left {
+  width: 550px;
+  margin-top: 127px;
+}
+.ether {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  color: #232536;
+}
+.full {
+  padding-top: 24px;
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  color: #232536;
+}
+.richman {
+  width: 430px;
+  padding-top: 16px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #232536;
+}
+
+.btr {
+  margin-top: 40px;
+  width: 182px;
+  padding: 20px 32px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.right {
+  width: 515px;
+  margin-top: 96px;
+  background-color: #ffe0c7;
+  height: 324px;
+  padding: 82px 100px 78px 80px;
+  background-image: url("../../images/ikonkkkk.svg");
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+.for {
+  padding-bottom: 24px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+}
+.textw {
+  padding-bottom: 16px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000000;
+}
+
+.textw:last-child {
+  padding-bottom: 0;
+}
+
+.your {
+  width: 1280px;
+  margin-top: 96px;
+  background-color: #ecf8f9;
+}
+
+.display {
+  padding: 43px 328px 29px 326px;
+}
+
+.list {
+  display: flex;
+  gap: 96px;
+}
+
+.link {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  color: #000000;
+}
+
+.link:hover {
+  color: #454dfd;
+}
+
+.links {
+  padding-top: 96px;
+  padding-left: 219px;
+  padding-bottom: 96px;
+  width: 1000px;
+}
+
+.edit {
+  padding-top: 20px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.appley {
+  padding-top: 96px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+}
+
+.one-div {
+  padding-top: 30px;
+  display: flex;
+  gap: 32px;
+}
+
+.cta-inpu {
+  padding: 20px 29px;
+  font-family: inherit;
+  font-weight: 500;
+  background-color: #f9f9ff;
+  width: 624px;
+}
+
+.cta-inpus {
+  margin-top: 32px;
+  padding: 34px 847px 163px 40px;
+  width: 1280px;
+  background-color: #f9f9ff;
+}
+
+.cta-form .cta-input {
+  & {
+    border: 0;
+  }
+
+  &::placeholder {
+    color: rgba(35, 37, 54, 40%);
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+.typ {
+  display: flex;
+  gap: 24px;
+}
+
+.cta-inp {
+  margin-top: 32px;
+  width: 36px;
+  height: 36px;
+}
+
+.agro {
+  padding-top: 32px;
+  width: 842px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000000;
+}
+
+.btb {
+  margin-top: 40px;
+  width: 251px;
+  padding: 20px 32px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+/* pass */

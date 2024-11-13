@@ -109,8 +109,20 @@
   display: flex;
 }
 
-.tuqumlar:first-child {
-  padding: 0;
+.soti {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  color: #232536;
+}
+
+.project {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000000;
 }
 
 .btn-primary {
@@ -148,6 +160,82 @@
 
 /* / */
 
+.our {
+  padding-top: 96px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+}
+
+.BR {
+  width: 733px;
+  padding-top: 16px;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+}
+.real {
+  width: 642px;
+  padding-top: 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/*  */
+.section-nav {
+  background-color: #ffffff;
+}
+
+.df-there {
+  display: flex;
+  margin-top: 68px;
+  gap: 48px;
+}
+
+.df-theres {
+  display: flex;
+  margin-top: 48px;
+  padding-bottom: 96px;
+  gap: 48px;
+}
+
+.df-one {
+  width: 400px;
+  padding: 30px 11px 28px 32px;
+  background-color: #ffffff;
+}
+
+.number {
+  padding-left: 300px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  opacity: 20%;
+}
+
+.covid {
+  padding-top: 8px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #232536;
+}
+.the {
+  padding-top: 8px;
+  width: 300px;
+  opacity: 60%;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #232536;
+}
+
+/*  */
 .top {
   height: 660px;
   display: flex;
@@ -156,6 +244,7 @@
 
 .up {
   display: flex;
+  gap: 141px;
 }
 
 .ourr {
@@ -183,9 +272,44 @@
   line-height: 24px;
   text-align: left;
 }
+
+/* ......... */
 .nav-right {
-  margin-left: 141px;
-  padding-top: 96px;
+  margin-top: 112px;
+}
+
+.dvays {
+  width: 515px;
+  padding: 32px 117px 32px 32px;
+  display: flex;
+  gap: 16px;
+  background-color: #ffffff;
+}
+
+.dvaysov {
+  margin-top: 12px;
+  width: 515px;
+  padding: 32px 117px 32px 32px;
+  display: flex;
+  gap: 16px;
+  background-color: #ffffff;
+}
+
+.time {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #000000;
+}
+.texx {
+  padding-top: 8px;
+  width: 303px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #5d5f6d;
 }
 
 .sev-pink {

@@ -134,7 +134,39 @@
   color: #232536;
 }
 
-.img-jpg {
-  padding-top: 64px;
+.df-there {
+  display: flex;
+  margin-top: 64px;
+  gap: 12px;
+}
+
+.df-theres {
+  display: flex;
+  margin-top: 12px;
   padding-bottom: 96px;
+  gap: 12px;
+}
+
+.df-one {
+  padding: 32px;
+  background-color: #ffffff;
+}
+
+.covid {
+  padding-top: 8px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #232536;
+}
+.the {
+  padding-top: 8px;
+  width: 354px;
+  opacity: 60%;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #232536;
 }
